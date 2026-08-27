@@ -1,16 +1,18 @@
-## Hi there 👋
+# Mustafa Kamal
+### Strategic Delivery Manager | Tata Consultancy Services (TCS)
 
-<!--
-**themustafakamal/themustafakamal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Strategic Delivery Manager based in Gurgaon, India, leading global service delivery, technical operations, and operational quality governance.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### **Core Expertise & Competencies**
+* **Service Delivery Governance:** SLA management, 24/7 technical operations, and system availability.
+* **Quality Management & ISO Audits:** Single Point of Contact (SPOC) for internal IQMS and external ISO audits with a record of **Zero Non-Conformance (NC)**.
+* **Testing Oversight:** Directing transition teams through User Acceptance Testing (**UAT**) and Business Requirements Testing (**BRT**).
+* **Continuous Improvement:** Certified **Lean Six Sigma Green Belt** utilizing process re-engineering and Tableau analytics.
+
+---
+
+### **Connect & Links**
+* 💼 **LinkedIn Profile:** [linkedin.com/in/themustafakamal](https://www.linkedin.com/in/themustafakamal)
+* 📝 **Medium Articles:** [medium.com/@themustafakamal](https://medium.com/@themustafakamal)
